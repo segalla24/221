@@ -1,0 +1,32 @@
+6 trains arriving today and tomorrow with total cargo 2657.80 lbs
+
+Arriving today 0000-0759
+    0000: The 0935 train from Genua
+          29.70 lbs of 63 mail and 1 green chimera
+    0200: The 2310 train from Pseudopolis
+          870.60 lbs of 29 mail and 16 goats and 1 book of runes and 130 candles
+Unloading crews needed: 2
+    0141: The 0012 train from StoPlains
+          75.40 lbs of 50 bananas and 168 surgical instruments
+Unloading crews needed: 2
+
+Arriving today 0800-1559
+    1122: The 0455 train from Lancre
+          7.30 lbs of 73 mail
+    1238: The 1115 train from Quirm
+          13.50 lbs of 45 mail and 2 books of runes
+Unloading crews needed: 1
+
+Arriving today 1600-2359
+    1948: The 1215 train from Ueberwald
+          1661.30 lbs of 120 mail and 14 grimoires and 14 chains for grimoires and 1 librarian and 9 sapient pairwood
+Unloading crews needed: 4
+
+Arriving tomorrow 0000-0759
+No trains.
+
+Arriving tomorrow 0800-1559
+No trains.
+
+Arriving tomorrow 1600-2359
+No trains.
